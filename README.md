@@ -1,5 +1,7 @@
 # puzzlegame
-
+NAME:UWITONZE
+CLEMANCE
+CLASS:L3SODB
 ## Project setup
 ```
 npm install
